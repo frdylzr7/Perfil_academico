@@ -8,7 +8,7 @@ __otro texto en negrita__
 
 >"en un lugar de la mancha,
 
-> "de cuyo nombre no quiero acordarme..."
+> "de cuyo nombre no quiero acordarme.."
 
 Miguel de Cervantes(1685)
 
